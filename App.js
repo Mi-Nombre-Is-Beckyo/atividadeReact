@@ -99,32 +99,4 @@ const styles = StyleSheet.create({
   telaPrincipalView: {
     padding: 50
   },
-  // lembreteView: {
-  //   flexDirection: 'row',
-  //   justifyContent: 'space-between',
-  //   alignItems: 'center',
-  //   marginBottom: 6
-  // },
-  // nomeTextInput: {
-  //   width: '80%',
-  //   borderBottomColor: 'black',
-  //   borderBottomWidth: 1,
-  //   padding: 2,
-  //   marginBottom: 4
-  // },
-  // telefoneTextInput: {
-  //   width: '80%',
-  //   borderBottomColor: 'black',
-  //   borderBottomWidth: 1,
-  //   padding: 2,
-  //   marginBottom: 4
-  // },
-  // itemNaLista: {
-  //   padding: 12,
-  //   backgroundColor: '#CCC',
-  //   borderColor: "black",
-  //   borderWidth: 1,
-  //   marginBottom: 8,
-  //   borderRadius: 8
-  // }
 });
