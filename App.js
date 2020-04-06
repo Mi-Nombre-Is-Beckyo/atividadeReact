@@ -78,18 +78,7 @@ export default function App() {
           )          
         }
       />
-      {/*<ScrollView>
-        {Aqui será exibida a lista de lembretes}
-        {
-          lembretes.map((lembrete) => 
-            <View 
-              key={lembrete}
-              style={styles.itemNaLista}>
-                <Text>{lembrete}</Text>
-            </View>
-          )         
-        }
-      </ScrollView>*/}
+      
     </View>
    
   );
